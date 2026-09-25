@@ -3,9 +3,8 @@
 Running the initial OpenCV scripts locally within your Fedora Conda environment keeps the heavy image processing off the edge devices.
 
 * **CLAHE:** Balances illumination to pull details out of dark acoustic shadows without overexposing bright returns.
-* **SRGR Correction:** Applies Slant-Range to Ground-Range flat-bottom correction using the AUV altitude ($H_{auv}$) to eliminate geometric distortion.
-* **Later Stage**
 * **Lee Filter:** Smooths multiplicative acoustic speckle noise without blurring sharp structural returns.
+* **Later Stage**
 * **Bilateral Filter:** Flattens background seabed variations while preserving high-frequency target edges.
 
 ## Phase 2: SAM-Assisted Annotation
