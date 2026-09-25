@@ -4,12 +4,12 @@ It consists of : <br>
 1. Data preprocessing pipeline
 2. Data annotation pipeline
 3. YOLO model (v26n) trained on most of the real SSS images which can detect: <br>
-   a) Ghost Nets <br>
-   b) Wrecked Ships <br>
-   c) Wrecked Planes<br>
-   d) Pipelines  <br>
-   e) Mines <br>
-   f) Anomalies  <br>
+   0: ghost_net <br>
+   1: shipwreck <br>
+   2: plane <br>
+   3: pipe <br>
+   4: mine <br>
+   5: debris <br>
    and determine the empty sea bed and marine life. <br>
 4. Backend deployed using Render <br>
 5. Front End (Web Dashboard) <br>
