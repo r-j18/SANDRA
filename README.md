@@ -8,7 +8,8 @@ It consists of : <br>
    b) Wrecked Ships <br>
    c) Wrecked Planes<br>
    d) Pipelines  <br>
-   e) Anomalies  <br>
+   e) Mines <br>
+   f) Anomalies  <br>
    and determine the empty sea bed and marine life. <br>
 4. Backend deployed using Render <br>
 5. Front End (Web Dashboard) <br>
