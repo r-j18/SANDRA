@@ -11,5 +11,6 @@ It consists of : <br>
    4: mine <br>
    5: debris <br>
    and determine the empty sea bed and marine life. <br>
+**Planned**
 4. Backend deployed using Render <br>
 5. Front End (Web Dashboard) <br>
